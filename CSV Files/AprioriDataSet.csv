@@ -1,0 +1,17 @@
+oreo,chips,bread,butter,milk,apple
+oreo,chips,bread,butter,milk,apple
+oreo,,bread,butter,milk,
+,,bread,butter,milk,
+,chips,,,,apple
+oreo,chips,bread,butter,milk,apple
+oreo,chips,,,milk,
+oreo,chips,bread,butter,,apple
+oreo,chips,,,milk,
+oreo,,bread,,,apple
+oreo,,bread,butter,milk,
+,chips,bread,butter,,apple
+oreo,,,butter,milk,apple
+oreo,chips,bread,butter,milk,
+oreo,,bread,,milk,apple
+oreo,,bread,butter,milk,apple
+oreo,chips,bread,butter,milk,apple
